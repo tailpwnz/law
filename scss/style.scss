@@ -1,0 +1,19 @@
+@import"_header";
+
+body{
+   font-size: 20px;
+   div{
+      font-size: 10px;
+
+   }
+}
+.hello {
+
+   &_item {
+   }
+}
+.hello_item {
+
+   &__ {
+   }
+}
